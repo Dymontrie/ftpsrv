@@ -5,7 +5,7 @@
 #######################################################################
 # Rename config.ini.template to config.ini for changes to take effect.#
 #######################################################################
-
+roblox
 [Login]
 # disabled by default, do not enable if using ldn_mitm as
 # it's a security risk - you have been warned!
